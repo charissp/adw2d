@@ -1,0 +1,49 @@
+h1{
+    font-family: "Playfair Display", Georgia, Serif; 
+    font-size: 40px; 
+}	
+
+h2, h3 {
+    font-family: "Playfair Display", Georgia, Serif;
+}	
+p, li {
+    font-family: "Open Sans", Georgia, Serif;
+}
+.details {
+	text-align: right;
+}
+.header {
+	text-align: left; 
+	color: #ffffff;
+	background-color:#000000;
+	background-image: url("adwd-bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	padding-top: 74px;
+	padding-bottom: 148px;
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+.card {
+	margin-top: -30px;
+    padding: 40px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    box-shadow: 0 31px 84px rgba(133, 147, 157, 0.19), 0 13px 25px rgba(133, 147, 157, 0.23);
+
+}
+
+
+/*GROW*/
+.grow img {
+  height: 25px;
+  width: 25px;
+
+}
+
+.grow img:hover {
+  width: 30px;
+  height: 30px;
+}
